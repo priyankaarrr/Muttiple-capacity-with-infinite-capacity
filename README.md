@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# 5. Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Name : PRIYANKA.R
 ## Reg : 212223220081
 ## Aim :
